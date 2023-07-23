@@ -5,18 +5,13 @@
 
   const carouselItems = [
     {
-      image: 'https://plus.unsplash.com/premium_photo-1667533288635-02ec9dafc61b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
+      image: 'https://images.unsplash.com/photo-1620765971982-c5c4e1d1bd75?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1100&q=80',
       title: 'First Slide Label',
       caption: 'Nulla vitae elit libero, a pharetra augue mollis interdum. Nulla vitae elit libero, a pharetra augue'
     },
     {
-      image: 'https://images.unsplash.com/photo-1600587098434-72553c7b2471?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=778&q=80',
-      title: 'Second Slide Label',
-      caption: 'Nulla vitae elit libero, a pharetra augue mollis interdum.'
-    },
-    {
       image: 'https://images.unsplash.com/photo-1620765970846-3274335578d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1400&q=80',
-      title: 'Third Slide Label',
+      title: 'Second Slide Label',
       caption: 'Nulla vitae elit libero, a pharetra augue mollis interdum.'
     }
   ]
